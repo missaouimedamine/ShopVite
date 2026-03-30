@@ -9,7 +9,7 @@ from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
 import os
 from dotenv import load_dotenv
-from prompt_engineering import build_prompt
+from src.prompt_engineering import build_prompt
 
 # ── État global ───────────────────────────────────────────────────────────────
 rag_chain = None
