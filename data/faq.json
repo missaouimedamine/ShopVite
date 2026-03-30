@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Quels sont les modes de livraison disponibles ?",
+    "answer": "ShopVite propose trois modes de livraison : la livraison Standard, la livraison Express et la livraison en Point Relais. Le choix est proposé au client lors de la validation de la commande."
+  },
+  {
+    "question": "Livrez-vous à l'international ?",
+    "answer": "Oui, ShopVite propose des livraisons à l'international, exclusivement au sein des pays de l'Europe. Les délais et frais peuvent varier selon la destination."
+  },
+  {
+    "question": "Quel est le coût d'une livraison express en France ?",
+    "answer": "Le coût de la livraison express en France est de 9,99 €. Ce tarif peut être ajusté en fonction d'offres promotionnelles ou de conditions spécifiques."
+  },
+  {
+    "question": "Comment suivre mon colis ?",
+    "answer": "Une fois la commande expédiée, un email contenant un numéro de suivi est envoyé au client. Ce numéro permet de suivre l’acheminement du colis en temps réel via le site du transporteur."
+  },
+  {
+    "question": "Que faire si mon colis arrive endommagé ?",
+    "answer": "En cas de réception d’un colis endommagé, le client doit refuser le colis ou émettre des réserves auprès du transporteur au moment de la livraison. Il est ensuite recommandé de contacter le service client de ShopVite dans les plus brefs délais, en fournissant des photos du colis et du produit afin de faciliter le traitement du dossier."
+  }
+]
