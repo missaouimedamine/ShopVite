@@ -111,7 +111,7 @@ uvicorn main:app --host 0.0.0.0 --port 7860
 ```json
 {
   "answer": "Nos délais de livraison standard sont de 3 à 5 jours ouvrés en France métropolitaine. La livraison express (24h) est disponible pour les commandes passées avant 14h.",
-  "sources": ["FAQ_livraison.pdf, page 2", "CGV.pdf, page 5"],
+  "sources": ["faq.json, page 2", "CGV.txt, page 5"],
   "confidence": "high"
 }
 ```
